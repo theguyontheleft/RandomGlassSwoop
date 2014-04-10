@@ -3,7 +3,7 @@
     android:id="@+id/RelativeLayout1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/it_s_over_nine_thousand"
+    android:background="@drawable/gears_nightmare_settings_large"
     android:gravity="clip_vertical" >
 
     <ListView

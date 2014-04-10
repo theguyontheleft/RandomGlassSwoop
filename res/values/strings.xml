@@ -17,9 +17,16 @@
     <string name="memeBroadcast">meme_broadcast</string>
     <string name="live_card_message">Busy uploading meme to Imgur. This card will be updated with URL</string>
 
+    <!-- Main Screen Strings -->
+    <string name="forget_9000">It\'s over 9,000,000,000,000 random possibilities!</string>
+    <string name="something_close">Or something close to that.</string>
+    <string name="main_instructions">Tap on the glasses to load a random feed.</string>
+
     <item name="top_caption_prompt" type="id">say top caption</item>
     <item name="bottom_caption_prompt" type="id">say bottom caption</item>
 
+    <string name="action_about">AboutDialog</string>
+    <string name="about_dialog">About Random Swoop</string>
     <string name="action_settings">Settings</string>
     <string name="loading_menu_title">You sure shook things up!</string>
     <string name="image_description">dizzy_bird_yo</string>
@@ -54,11 +61,11 @@
     <!-- About strings -->
     <string name="about_wtf">You may be wondering what this app is... </string>
     <string name="about_mission">The goal of this app is to make all of the best 
-        memes and happenings on the internet randomly available to you at the shake of your palm.
+        memes and happenings on the internet randomly available to you in the corner of your eye!
         A unique feed from one of the most popular sites will be randomly selected every time you shake
           your device (or touch the button). These sites can be customized from the settings menu.
            Say goodbye to boredom! #Swoop </string>
-    <string name="about_authors">HashtagSwoop was created by: </string>
+    <string name="about_authors">Random Swoop was created by: </string>
     <string name="about_author1">James Dagres</string>
     <string name="about_contact">If you have any questions you can contact me at jdagres@vt.edu</string>
     <string name="about_qoute">“I” 
