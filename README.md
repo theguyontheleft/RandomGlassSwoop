@@ -10,3 +10,6 @@ The goal of this app is to make all of the best
           your device (or touch the button). These sites can be customized from the settings menu.
 
 If you have any questions on it please let me know.
+
+A good resource to start working on Google Glass applications is here:
+http://www.mobilexweb.com/blog/google-glass-browser-html5-responsive-web-design
