@@ -1,22 +1,12 @@
-#MemeGenerator
+#RandomGlassSwoop
 ====================
-###What is this madness?
-What good is a new device that can't make memes? Worry not, glassholes. Your wish is my command. 
+###What does swoop mean?
 
-Install this app and ask your glass to make a meme by saying - "OK Glass, make a meme" and let the magic happen.
+This is my first glassware project developed during a short period with a Google Glass explorer. The idea is similar to my android application: https://play.google.com/store/apps/details?id=swoop.hashtagswoop. But it caters to the harder to navigate and search interface of the glasses. It provides quick easy to access entertainment.
 
-###Teach me how to debuggie
-Here's what happens:
+The goal of this app is to make all of the best 
+        memes and happenings on the internet randomly available to you in the corner of your eye!
+        A unique feed from one of the most popular sites will be randomly selected every time you shake
+          your device (or touch the button). These sites can be customized from the settings menu.
 
-* Manifest:
-
-	* We request permission for external storage, camera and internet
-	* We list several Android entities: 
-		* MemeService Service
-		* MainPage Activity
-		* AddCaption Activity
-		* LiveCardActivity Activity
-		
-* MemeService: : This service catches the voice trigger, creates a live card and a broadcast receiver that will allow us to modify the live card. Then triggers MainPage.
-* MainPage: This activity triggers the image capture intent and waits for Android to send back an image. On a successful image capture, we launch AddCaption.
-* AddCaption: This activity has menu options to trigger caption input. Upon return from entering voice input, we change menu option to Share. Selecting share closes activities and sends user to Live card. Uploading image triggers the broadcast we initialized earlier with an updated message = link to Imgur
+If you have any questions on it please let me know.
